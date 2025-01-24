@@ -37,3 +37,5 @@ Behavioral design patterns deal with algorithms and the assignment of responsibi
 - **Strategy**
 - **Template Method**
 - **Visitor**
+
+![](Patterns_design.png)
